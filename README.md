@@ -5,10 +5,10 @@
 
 ## Installation 
 - Create-React-App & Dependencies
-```npx create-react-app react-bootstrap-landingpage```
-```yarn add react-router-dom```
-```yarn add react-bootstrap bootstrap```
-```yarn add styled components```
+- ```npx create-react-app react-bootstrap-landingpage```
+- ```yarn add react-router-dom```
+- ```yarn add react-bootstrap bootstrap```
+- ```yarn add styled components```
 
 - Add stylesheet in index.html file
 ```
