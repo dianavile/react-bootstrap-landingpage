@@ -3,6 +3,23 @@
 
 - [React Bootstrap landingpage- boilerplate](https://github.com/dianavile/react-bootstrap-landingpage/blob/main/src/assets/React-Bootstrap-Layout.JPG)
 
+## Installation 
+- Create-React-App & Dependencies
+```npx create-react-app react-bootstrap-landingpage```
+```yarn add react-router-dom```
+```yarn add react-bootstrap bootstrap```
+```yarn add styled components```
+
+- Add stylesheet in index.html file
+```
+<link
+  rel="stylesheet"
+  href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.0/css/bootstrap.min.css"
+  integrity="sha384-9aIt2nRpC12Uk9gS9baDl411NQApFmC26EwAOH8WgZl5MYYxFfc+NcPb1dKGj7Sk"
+  crossorigin="anonymous"
+/>
+```
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
